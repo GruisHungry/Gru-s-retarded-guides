@@ -1,0 +1,72 @@
+------------------------------------------------
+------------------------------------------------
+----########################################----
+----####GRU'S RETARDED FIX WINDOWS GUIDE####----
+----########################################----
+------------------------------------------------
+------------------------------------------------
+
+
+######################
+####Delete em list####
+######################
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2102.4-0\MsMpEng #antimalware engine
+C:\ProgramData\Microsoft\Windows Defender #deleting defender itself fixed high cpu and memory usage
+C:\Windows\System32\SearchFilterHost #eats cpu like an obese american
+C:\Windows\System32\SearchIndexer #the obese little sister
+C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.18362.1430_none_16f0726f2a33ac55\TiWorker #Windows module Dildo
+C:\Windows\System32\smartscreen #annoying cuckscreen
+C:\Windows\System32\smartscreenps #also annoying smartscreen
+C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceH #retarded people app nobody uses
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #cortana but it isnt the sexy one from Halo
+C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #more xbox gayware
+C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #non chromium version of edgelord browser
+C:\Users\HP\AppData\Local\Microsoft\OneDrive #retareded ShitDrive
+
+
+#############################
+#####The dont remove list####
+#############################
+C:\Windows\System32\SecurityHealthService #Doesnt rape your system unlike Windows Defender
+C:\Windows\System32\sppsvc #used for license activation so should not remove
+C:\Windows\System32\svchost #has a lot of shady shit in it but removing it also means an unbootable system
+C:\Windows\System32\yourmother
+
+--------------------------------------------------------------------
+----I wanna block windows from connecting to my pc what do i do?----
+--------------------------------------------------------------------
+Download notepad++ and open it in administrator mode (https://notepad-plus-plus.org/downloads/)
+and open the path under this sentence
+
+C:\Windows\System32\drivers\etc\hosts
+
+You want to copy the content from spy.txt,extra.txt and update.txt to your hosts file and then save it
+(Windows will think a virus took over so tell it its fine or else it will nuke your changes)
+and then reboot you retard
+Now the Indian Bill Gates wont be able to find your loli and filthy food porn collection anymore
+(You can also make a pihole dns sinkhole but thats to many steps for you today)
+
+----------------------------
+----Delete Windows crap?----
+----------------------------
+Download Etcher and some linux distro (https://linuxmint.com/download.php and https://www.balena.io/etcher/)
+and burn the iso into an usb drive and boot into it
+
+Mount your windows drive and use the "Delete em list" and delete the things you dont want/hate
+(Linux directories uses / compared to windows \ so you cant copy and paste as easily when you navigate)
+Thats literally all
+
+
+---------------------------------------------------------------------
+----Cant delete std UXP app nobody asked for to have on their pc ----
+---------------------------------------------------------------------
+Open powershell as admininistrator
+Run Get-AppxPackage | Select Name, PackageFullName to get a list of all packages
+Use Get-AppxPackage *yourmother* | Remove-AppxPackage, to remove the application you dont want
+
+
+-------------------------------------------
+----Hide retarded cuck search function-----
+-------------------------------------------
+Right click on the windows taskbar because you are disabled like me (born with autism so dont give a fuck if you are offended)
+Then find the search section and click hide, now windows looks less retarded

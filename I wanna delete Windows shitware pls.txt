@@ -70,3 +70,8 @@ Use Get-AppxPackage *yourmother* | Remove-AppxPackage, to remove the application
 -------------------------------------------
 Right click on the windows taskbar because you are disabled like me (born with autism so dont give a fuck if you are offended)
 Then find the search section and click hide, now windows looks less retarded
+
+------------------------------------------------------------------------------------------
+----Halp MicroPP decided to delete access to control panel system information on 20H2!----
+------------------------------------------------------------------------------------------
+Open commandline and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"

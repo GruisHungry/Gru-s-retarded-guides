@@ -11,17 +11,17 @@
 ####Delete em list####
 ######################
 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2102.4-0\MsMpEng #antimalware engine
-C:\ProgramData\Microsoft\Windows Defender #deleting defender itself fixed high cpu and memory usage
-C:\Windows\System32\SearchFilterHost #eats cpu like an obese american
-C:\Windows\System32\SearchIndexer #the obese little sister
+C:\ProgramData\Microsoft\Windows Defender #Deleting defender itself fixed high cpu and memory usage
+C:\Windows\System32\SearchFilterHost #Eats cpu like an obese american
+C:\Windows\System32\SearchIndexer #The obese little sister
 C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.18362.1430_none_16f0726f2a33ac55\TiWorker #Windows module Dildo
-C:\Windows\System32\smartscreen #annoying cuckscreen
-C:\Windows\System32\smartscreenps #also annoying smartscreen
-C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceH #retarded people app nobody uses
-C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #cortana but it isnt the sexy one from Halo
-C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #more xbox gayware
-C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #non chromium version of edgelord browser
-C:\Users\HP\AppData\Local\Microsoft\OneDrive #retareded ShitDrive
+C:\Windows\System32\smartscreen #Annoying cuckscreen
+C:\Windows\System32\smartscreenps #Also annoying smartscreen
+C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceH #Retarded "people app" nobody uses or gives a shit about
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #Cortana but it isnt the sexy one from Halo, it got stds and downs instead
+C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #More xbox gayware shoved down your throat
+C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #Non chromium version of edgelord browser
+C:\Users\HP\AppData\Local\Microsoft\OneDrive #Retareded ShitDrive, i paid money and Microsoft needs even more?
 
 
 #############################
@@ -35,9 +35,7 @@ C:\Windows\System32\yourmother
 --------------------------------------------------------------------
 ----I wanna block windows from connecting to my pc what do i do?----
 --------------------------------------------------------------------
-Download notepad++ and open it in administrator mode (https://notepad-plus-plus.org/downloads/)
-and open the path under this sentence
-
+Download notepad++ and open it in administrator mode (https://notepad-plus-plus.org/downloads/)and open the path under this sentence
 C:\Windows\System32\drivers\etc\hosts
 
 You want to copy the content from spy.txt,extra.txt and update.txt to your hosts file and then save it
@@ -75,3 +73,4 @@ Then find the search section and click hide, now windows looks less retarded
 ----Halp MicroPP decided to delete access to control panel system information on 20H2!----
 ------------------------------------------------------------------------------------------
 Open commandline and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
+

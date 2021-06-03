@@ -1,10 +1,10 @@
-------------------------------------------------
-------------------------------------------------
-----########################################----
-----####GRU'S RETARDED FIX WINDOWS GUIDE####----
-----########################################----
-------------------------------------------------
-------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+----###########################################----
+----####GRU'S RETARDED FIX WINDOWS 10 GUIDE####----
+----###########################################----
+---------------------------------------------------
+---------------------------------------------------
 
 
 ######################
@@ -12,7 +12,7 @@
 ######################
 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2102.4-0\MsMpEng #antimalware engine
 C:\ProgramData\Microsoft\Windows Defender #Deleting defender itself fixed high cpu and memory usage
-C:\Windows\System32\SearchFilterHost #Eats cpu like an obese american
+C:\Windows\System32\SearchFilterHost #Eats cpu like an obese American
 C:\Windows\System32\SearchIndexer #The obese little sister
 C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.18362.1430_none_16f0726f2a33ac55\TiWorker #Windows module Dildo
 C:\Windows\System32\smartscreen #Annoying cuckscreen

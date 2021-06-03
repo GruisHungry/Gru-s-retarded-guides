@@ -25,7 +25,7 @@ C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #More xbox gayw
 C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy #Gay cloud experience
 C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #Non chromium version of edgelord browser
 C:\Users\HP\AppData\Local\Microsoft\OneDrive #Retareded ShitDrive, i paid money and Microsoft needs even more? (can be deleted normally)
-(Dont delete shit you want retard)
+(Dont delete shit you want retard, oh and deleting some of these will remove your ability to use search)
 
 #############################
 #####The dont remove list####

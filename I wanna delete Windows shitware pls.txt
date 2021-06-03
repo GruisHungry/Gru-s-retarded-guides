@@ -32,6 +32,7 @@ C:\Windows\System32\sppsvc #used for license activation so should not remove
 C:\Windows\System32\svchost #has a lot of shady shit in it but removing it also means an unbootable system
 C:\Windows\System32\yourmother
 
+
 --------------------------------------------------------------------
 ----I wanna block windows from connecting to my pc what do i do?----
 --------------------------------------------------------------------
@@ -43,6 +44,7 @@ You want to copy the content from spy.txt,extra.txt and update.txt to your hosts
 and then reboot you retard
 Now the Indian Bill Gates wont be able to find your loli and filthy food porn collection anymore
 (You can also make a pihole dns sinkhole but thats to many steps for you today)
+
 
 ----------------------------
 ----Delete Windows crap?----
@@ -69,9 +71,11 @@ Use "Get-AppxPackage *yourmother* | Remove-AppxPackage" to remove the applicatio
 Right click on the windows taskbar because you are disabled like me (born with autism so dont give a fuck if you are offended)
 Then find the search section and click hide, now windows looks less retarded
 
+
 ------------------------------------------------------------------------------------------
 ----Halp MicroPP decided to delete access to control panel system information on 20H2!----
 ------------------------------------------------------------------------------------------
 Open CMD and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
 You can alternatively make a shortcut and paste the command into it, so you wont need to open up CMD
+
 

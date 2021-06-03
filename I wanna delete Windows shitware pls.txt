@@ -16,13 +16,16 @@ C:\Windows\System32\SearchFilterHost #Eats cpu like an obese American
 C:\Windows\System32\SearchIndexer #The obese little sister
 C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.18362.1430_none_16f0726f2a33ac55\TiWorker #Windows module Dildo
 C:\Windows\System32\smartscreen #Annoying cuckscreen
+C:\Windows\SystemApps\MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy #Dont need your devkit MicroPP
 C:\Windows\System32\smartscreenps #Also annoying smartscreen
+ C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy #Nobody knows what this application does, lets remove it
 C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceH #Retarded "people app" nobody uses or gives a shit about
-C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #Cortana but it isnt the sexy one from Halo, it got stds and downs instead
+C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #Cortana but it isnt the sexy one from Halo, it got stds and downs instead (can be removed with "Get-AppxPackage *Microsoft.549981C3F5F10* | Remove-AppxPackage" also)
 C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #More xbox gayware shoved down your throat
+C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy #Gay cloud experience
 C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #Non chromium version of edgelord browser
 C:\Users\HP\AppData\Local\Microsoft\OneDrive #Retareded ShitDrive, i paid money and Microsoft needs even more? (can be deleted normally)
-
+(Dont delete shit you want retard)
 
 #############################
 #####The dont remove list####
@@ -79,3 +82,9 @@ Open CMD and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
 You can alternatively make a shortcut and paste the command into it, so you wont need to open up CMD
 
 
+------------------------------------------------------------------------------------------------------
+----MicroSTDs forced their newest unwanted child called Chromium Edge on my pc how do i delete it?----
+------------------------------------------------------------------------------------------------------
+Open CMD as administrator type "cd C:\Program Files (x86)\Microsoft\Edge\Application" and click enter
+Then type "cd 83.0.478.58." (or whatever version number you have) and go into that directory
+and lastly run .\setup.exe -uninstall -system-level -verbose-logging -force-uninstall if "Get-AppxPackage *edge* | Remove-AppxPackage" doesnt work for you in Powershell

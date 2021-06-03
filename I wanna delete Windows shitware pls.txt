@@ -35,7 +35,7 @@ C:\Windows\System32\yourmother
 --------------------------------------------------------------------
 ----I wanna block windows from connecting to my pc what do i do?----
 --------------------------------------------------------------------
-Download notepad++ and open it in administrator mode (https://notepad-plus-plus.org/downloads/)and open the path under this sentence
+Download notepad++ and open it in administrator mode (https://notepad-plus-plus.org/downloads/)and open the file under this sentence with notepad++
 C:\Windows\System32\drivers\etc\hosts
 
 You want to copy the content from spy.txt,extra.txt and update.txt to your hosts file and then save it
@@ -59,8 +59,8 @@ Thats literally all
 ----Cant delete std UXP app nobody asked for to have on their pc ----
 ---------------------------------------------------------------------
 Open powershell as admininistrator
-Run Get-AppxPackage | Select Name, PackageFullName to get a list of all packages
-Use Get-AppxPackage *yourmother* | Remove-AppxPackage, to remove the application you dont want
+Run "Get-AppxPackage | Select Name, PackageFullName" to get a list of all packages
+Use "Get-AppxPackage *yourmother* | Remove-AppxPackage" to remove the application you dont want
 
 
 -------------------------------------------

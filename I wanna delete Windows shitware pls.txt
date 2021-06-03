@@ -21,7 +21,7 @@ C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceH #Retarded "people app"
 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy #Cortana but it isnt the sexy one from Halo, it got stds and downs instead
 C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy #More xbox gayware shoved down your throat
 C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge #Non chromium version of edgelord browser
-C:\Users\HP\AppData\Local\Microsoft\OneDrive #Retareded ShitDrive, i paid money and Microsoft needs even more?
+C:\Users\HP\AppData\Local\Microsoft\OneDrive #Retareded ShitDrive, i paid money and Microsoft needs even more? (can be deleted normally)
 
 
 #############################
@@ -58,7 +58,7 @@ Thats literally all
 ---------------------------------------------------------------------
 ----Cant delete std UXP app nobody asked for to have on their pc ----
 ---------------------------------------------------------------------
-Open powershell as admininistrator
+Open Powershell as admininistrator
 Run "Get-AppxPackage | Select Name, PackageFullName" to get a list of all packages
 Use "Get-AppxPackage *yourmother* | Remove-AppxPackage" to remove the application you dont want
 
@@ -72,5 +72,6 @@ Then find the search section and click hide, now windows looks less retarded
 ------------------------------------------------------------------------------------------
 ----Halp MicroPP decided to delete access to control panel system information on 20H2!----
 ------------------------------------------------------------------------------------------
-Open commandline and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
+Open CMD and run "explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
+You can alternatively make a shortcut and paste the command into it, so you wont need to open up CMD
 
